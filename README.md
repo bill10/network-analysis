@@ -1,2 +1,2 @@
 # Network Analysis
- Website for the Network Analysis at Data Matters 2019
+Materials for the Network Analysis course at Data Matters 2019
